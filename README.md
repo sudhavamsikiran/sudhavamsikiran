@@ -10,13 +10,17 @@ I have successfully implemented **Scalable Robust enterprise Cloud native archit
 ---
 
 ## 🏆 Professional Summary
-🔹 **Enterprise Architecture & Governance**: TOGAF-certified expert in IT governance, risk management, COBIT, and ITIL frameworks  
-🔹 **Cloud-Native Solutions**: Microsoft Azure, AWS Well-Architected Framework, Azure AI, IoT, and DevSecOps best practices  
-🔹 **Cybersecurity Leadership**: IEC62443-4-1, ISO 27001, GDPR, Zero Trust security principles, and advanced threat assessment  
-🔹 **Software & System Design**: Microservices, Clean Architecture, Domain-Driven Design, SaaS transformations, technical documentation  
-🔹 **DevOps & Automation**: CI/CD, Terraform, Kubernetes, Dockers, Helm Charts, GitOps, Azure DevOps Pipelines  
+A results-driven Enterprise Architect with 19+ years of experience designing high-performance, scalable, and secure enterprise architectures across banking, healthcare, and retail technology. Certified in TOGAF, AWS, and Azure Solution Architecture, with deep expertise in architectural governance, IT service management, and cybersecurity frameworks.
+🔹 **Enterprise Architecture & Governance**: TOGAF-certified expert Specializing in IT governance, risk management, COBIT, ITIL frameworks , and TOGAF frameworks to align business objectives with scalable technology solutions.
+🔹 **Cloud-Native Solutions**: Architected cloud-native platforms using Microsoft Azure, AWS Well-Architected Framework, Azure AI and Generative AI models, IoT, and DevSecOps best practices  ensuring robust, resilient, and scalable infrastructure designs.
+🔹 **Cybersecurity Leadership**: Proven expertise in IEC62443-4-1, ISO 27001, GDPR, Zero Trust security principles, and advanced threat assessment  
+🔹 **Strategic Technical Innovation**: Led RFQ, RFP proposals and conducted Privacy Impact Assessments (PIA), optimizing solution architecture decisions and accelerating project timelines.
+🔹 **Software & System Design**: Vast Experience in Microservices, Clean Architecture, Domain-Driven Design, SaaS transformations, technical documentation and service-oriented architecture (SOA).
+🔹 **DevOps & Automation**: Driving CI/CD automation, infrastructure as code (IaC), Kubernetes, Docker, Terraform, Kubernetes, Dockers, Helm Charts, GitOps, Azure DevOps Pipelines and GitOps strategies to enhance deployment efficiency.  
 🔹 **Programming Expertise**: .NET Core, C#, Python, React.js, TypeScript, Node.js, Angular  
-🔹 **Data Engineering & AI**: Data migration, Apache Arrow, Kafka, Generative AI, AI Engines, IoT integration  
+🔹 **Data Engineering & AI**: Data migration, Apache Arrow, Kafka, Generative AI, AI Engines, IoT integration
+🔹 **Stakeholder Engagement & Leadership**: Adept at executive communication, cross-functional collaboration, and architectural roadmap development, influencing decision-making and business transformations.
+With a passion for continuous innovation, I thrive on translating complex business challenges into scalable, secure, and high-performing technology solutions.
 
 ---
 
