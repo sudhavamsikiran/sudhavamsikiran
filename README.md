@@ -1,7 +1,13 @@
 ## Hi there 👋
 
 # 👋 Hi, I'm Sudhavamsikiran Damojipurapu!
+## 📫 Connect with Me!
+💼 [LinkedIn](https://www.linkedin.com/in/dsudhavamsikiran)  
+💻 [GitHub](https://github.com/sudhavamsikiran)  
+✍️ [Medium](https://sdamojipurapu.medium.com)  
+💡 [Topmate](https://topmate.io/sudhavamsikiran)  
 
+---
 ## 🚀 About Me
 I am an **Enterprise Architect** with 19+ years of experience specializing in **high-performance, scalable, and secure enterprise architectures**. My expertise lies in **Azure, AWS cloud-native solutions, cybersecurity frameworks, architectural governance**, and aligning technology strategies with business objectives.  I thrive on translating complex business challenges into scalable, secure, and high-performing technology solutions.
 
@@ -16,15 +22,18 @@ A results-driven Enterprise Architect with 19+ years of experience designing hig
 
 🔹 **Cloud-Native Solutions**: Architected cloud-native platforms using Microsoft Azure, AWS , Azure AI and Generative AI models, IoT, and DevSecOps best practices  ensuring robust, resilient, and scalable infrastructure designs.
 
-🔹 **Cybersecurity Leadership**: Proven expertise in IEC62443-4-1, ISO 27001, GDPR, Zero Trust security principles, and advanced threat assessment  
+🔹 **Cybersecurity Leadership**: Proven expertise in IEC62443-4-1, ISO 27001, GDPR, Zero Trust security principles, and advanced threat assessment.  
 
 🔹 **Strategic Technical Innovation**: Led RFQ, RFP proposals and conducted Privacy Impact Assessments (PIA), optimizing solution architecture decisions and accelerating project timelines.
 
 🔹 **Software & System Design**: Vast Experience in Microservices, Clean Architecture, Domain-Driven Design, SaaS transformations, technical documentation and service-oriented architecture (SOA).
 
-🔹 **DevOps & Automation**: Driving CI/CD automation, infrastructure as code (IaC), Kubernetes, Docker, Terraform, Kubernetes, Dockers, Helm Charts, GitOps, Azure DevOps Pipelines and GitOps strategies to enhance deployment efficiency.  
+🔹 **DevOps & Automation**: Driving CI/CD automation, infrastructure as code (IaC), Kubernetes, Docker, Terraform, Kubernetes, Dockers, Helm Charts, GitOps, Azure DevOps Pipelines and GitOps strategies to enhance deployment efficiency. 
+
 🔹 **Programming Expertise**: .NET Core, C#, Python, React.js, TypeScript, Node.js, Angular.
+
 🔹 **Data Engineering & AI**: Data migration, Apache Arrow, Kafka, Generative AI, AI Engines, IoT integration.
+
 🔹 **Stakeholder Engagement & Leadership**: Adept at executive communication, cross-functional collaboration, and architectural roadmap development, influencing decision-making and business transformations With a passion for continuous innovation.
 
 ---
@@ -65,14 +74,6 @@ _Principal Enterprise Architect_
 🎖 **Spot Award by ABB** – Developed **common UI tools for business applications**  
 🏆 **DNA Award by Sonata Software** – Led the **successful migration of HP ALM to Azure Cloud**  
 🚀 **Best Performer GEMS Award by TCS** – Spearheaded **Azure Cloud transformation for Cigna Healthcare**  
-
----
-
-## 📫 Connect with Me!
-💼 [LinkedIn](https://www.linkedin.com/in/dsudhavamsikiran)  
-💻 [GitHub](https://github.com/sudhavamsikiran)  
-✍️ [Medium](https://sdamojipurapu.medium.com)  
-💡 [Topmate](https://topmate.io/sudhavamsikiran)  
 
 ---
 
