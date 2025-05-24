@@ -31,7 +31,7 @@ I have successfully implemented **compliant enterprise solutions** across variou
 
 ## 💼 Work Experience
 🔹 **Commonwealth Bank of Australia** (2024 - Present)  
-_Chapter Lead Enterprise Architect_  
+_Chapter Lead Retail Banking Enterprise Architectures_  
 - Architected **end-to-end enterprise architecture** for card payments & benefits in retail banking  
 - Led the **cloud migration of Commsee Security**, reducing infrastructure costs by 25%  
 - Developed **scalable APIs** leveraging AWS, AI, IoT, and modern cloud technologies  
