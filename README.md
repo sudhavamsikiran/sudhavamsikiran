@@ -5,7 +5,7 @@
 ## 🚀 About Me
 I am an **Enterprise Architect** with 19+ years of experience specializing in **high-performance, scalable, and secure enterprise architectures**. My expertise lies in **cloud-native solutions, cybersecurity frameworks, architectural governance**, and aligning technology strategies with business objectives.
 
-I have successfully implemented **compliant enterprise solutions** across various industries, including **banking, healthcare, and retail technology**, for clients such as **Commonwealth Bank of Australia, ABB, JNJ, Cigna, NHS UK, and Ericsson**.
+I have successfully implemented **Scalable Robust enterprise Cloud native architecture solutions** across various industries, including **banking, healthcare, and retail technology**, for clients such as **Commonwealth Bank of Australia, ABB, JNJ, Cigna, NHS UK, and Ericsson**.
 
 ---
 
