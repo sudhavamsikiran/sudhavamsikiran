@@ -2,10 +2,7 @@
 
 # 👋 Hi, I'm Sudhavamsikiran Damojipurapu!
 ## 📫 Connect with Me!
-💼 [LinkedIn](https://www.linkedin.com/in/dsudhavamsikiran)  
-💻 [GitHub](https://github.com/sudhavamsikiran)  
-✍️ [Medium](https://sdamojipurapu.medium.com)  
-💡 [Topmate](https://topmate.io/sudhavamsikiran)  
+💼 [LinkedIn](https://www.linkedin.com/in/dsudhavamsikiran)  💻 [GitHub](https://github.com/sudhavamsikiran)  ✍️ [Medium](https://sdamojipurapu.medium.com)  💡 [Topmate](https://topmate.io/sudhavamsikiran)  
 
 ---
 ## 🚀 About Me
